@@ -1,0 +1,7 @@
+email,name,university,role,status,sent_at,notes,thread_id,followup_1_status,followup_1_sent_at,last_reply_at,sequence_status,initial_subject
+symmetry0119@gmail.com,a,Harvard University,Admissions Officer,sent,4/29/2026,Sent by Apps Script hello-world POC,19dd88268fda8e,sent,4/29/2026,,active,Quick hello from EnrollX
+odysseai2000@gmail.com,b,Stanford University,Professor,sent,4/29/2026,Sent by Apps Script hello-world POC,19dd88268fda8e,sent,4/29/2026,,active,Quick hello from EnrollX
+kk6348653@gmail.com,c,Yale University,Office Staff,sent,4/29/2026,Sent by Apps Script hello-world POC,19dd88268fda8e,sent,4/29/2026,,active,Quick hello from EnrollX
+674929108@qq.com,d,Columbia University,Staff,sent,4/29/2026,Sent by Apps Script hello-world POC,19dd88268fda8e,sent,4/29/2026,,active,Quick hello from EnrollX
+2128116387@qq.com,e,Columbia University,Staff,error,4/29/2026,Missing email,,pending,4/29/2026,,active,Quick hello from EnrollX
+2128116387@qq.com,f,Columbia University,Staff,sent,4/29/2026,Initial email sent by Apps Script POC,19dd88268fda8e,sent,4/29/2026,,active,Quick hello from EnrollX
